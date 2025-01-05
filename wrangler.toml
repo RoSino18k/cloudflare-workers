@@ -1,7 +1,2 @@
-   name = "us"
-   type = "javascript"
-
-   # account_id = "your_account_id"
-   workers_dev = true
-   
- compatibility_date = "2025-01-05"
+name = "us"
+compatibility_date = "2025-01-05"
